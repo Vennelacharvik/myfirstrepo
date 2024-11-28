@@ -1,0 +1,8 @@
+#jarfile
+*.jar
+
+#abcfile
+*.abc
+
+#xyzfiles
+[xyz]*.xyz
